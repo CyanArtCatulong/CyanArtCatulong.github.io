@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Commerce Web Platform",
+    "description": "A full-featured responsive online store interface featuring product dynamic cards, filter categories, and a checkout UI.",
+    "technologies": ["HTML5", "CSS3", "JavaScript"],
+    "role": "Frontend Developer",
+    "screenshot": "https://images.unsplash.com/photo-1557821552-17105176677c?w=500&auto=format&fit=crop&q=60",
+    "link": "https://github.com/cyanartcatulong"
+  },
+  {
+    "title": "Task & Productivity Manager",
+    "description": "An interactive web app allowing students to structure daily assignments, track deadlines, and filter completed tasks.",
+    "technologies": ["JavaScript", "HTML5", "CSS Grid"],
+    "role": "Full-Stack Developer",
+    "screenshot": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=500&auto=format&fit=crop&q=60",
+    "link": "https://github.com/cyanartcatulong"
+  },
+  {
+    "title": "Real-Time Weather Dashboard",
+    "description": "A weather forecasting application pulling live weather metrics for searched cities via a public REST API.",
+    "technologies": ["JavaScript", "REST API", "CSS Variables"],
+    "role": "API Integration Developer",
+    "screenshot": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=500&auto=format&fit=crop&q=60",
+    "link": "https://github.com/cyanartcatulong"
+  }
+]
